@@ -1,0 +1,30 @@
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.exe.config
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.exe
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.pdb
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.xml
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.dll
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.pdb
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.xml
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbprojResolveAssemblyReference.cache
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.Form1.resources
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.Resources.resources
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbproj.GenerateResource.Cache
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.exe
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.xml
+C:\Users\massimo\Desktop\GIS\object_max _45\FRAM_40_lib_desktop\GPE_convert_catasto_V2\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.pdb
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.exe.config
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.exe
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.pdb
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\demo_conversione.xml
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.dll
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.pdb
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\bin\Debug\gpe_convert_catasto.xml
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbproj.AssemblyReference.cache
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.Form1.resources
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.Resources.resources
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbproj.GenerateResource.cache
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbproj.CoreCompileInputs.cache
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.vbproj.CopyComplete
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.exe
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.xml
+C:\Users\massimo\Desktop\GIS\object_max_giu_2020\gpe_convert_catasto\gpe_convert_catasto\demo_conversione\obj\Debug\demo_conversione.pdb

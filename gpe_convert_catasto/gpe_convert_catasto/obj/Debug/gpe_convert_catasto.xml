@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+gpe_convert_catasto
+</name>
+</assembly>
+<members>
+<member name="T:gpe_convert_catasto.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:gpe_convert_catasto.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:gpe_convert_catasto.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="M:gpe_convert_catasto.Soggetti.WriteSoggetti(System.Data.OleDb.OleDbConnection,System.String,gpe_convert_catasto.GpeProgressBar@)">
+ <summary>Initializes new instance create WriteSoggetti.</summary>
+ <param name="dbConnection">Connessione del DB</param>
+ <param name="ConversioneFile">Cartella del file.SOG</param>
+ <param name="BarProgress">BarProgress view ProgressBar</param>
+ <returns>Value True False and numero soggetti trovati</returns>
+</member>
+<member name="M:gpe_convert_catasto.StatusFabbricati.UnitaImmobiliare(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "cuidenti"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusFabbricati.Identificativi(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "cuidenti"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusFabbricati.Indirizzo(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "CUINDIRI"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusFabbricati.UtilitaComuni(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand,System.Int32)">
+ <summary>Create UtilitaComuni. "cuutilit"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusFabbricati.Riserve(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create UtilitaComuni. "CURISERV"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusTerreni.Particelle(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "CTPARTIC"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusTerreni.Deduzioni(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "CTDEDUZI"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusTerreni.Riserve(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "CTRISERV"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.StatusTerreni.Porzioni(System.Data.OleDb.OleDbConnection,System.String[],System.Data.OleDb.OleDbCommand)">
+ <summary>Create Identificativi. "CTPORZIO"</summary>
+ <param name="Connect">Connessione del DB</param>
+ <param name="Values">Array contenente i dati da memorizzare</param>
+ <param name="cmd">paramertro OleDbCommand</param>
+</member>
+<member name="M:gpe_convert_catasto.LibraryMDBcreate.CreateMDBfiles(System.String,System.String)">
+ <summary>Initializes new instance create MDB files.</summary>
+ <returns>Value True False is create MDB file</returns>
+</member>
+<member name="M:gpe_convert_catasto.Titoli.WriteTitoli(System.Data.OleDb.OleDbConnection,System.String,gpe_convert_catasto.GpeProgressBar@)">
+ <summary>Initializes new instance create WriteTitola.</summary>
+ <returns>Value True False and numero soggetti</returns>
+</member>
+</members>
+</doc>
